@@ -30,6 +30,7 @@
             <div class="control-group">
             <div class="form-group floating-label-form-group controls mb-0 pb-2">
                 <label># Id Number</label>
+                
                 <input class="form-control" name="id" id="id" type="number" placeholder="Id Number" required="required" data-validation-required-message="Please enter your ID Number.">
                 <p class="help-block text-danger"></p>
             </div>
